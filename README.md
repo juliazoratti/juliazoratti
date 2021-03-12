@@ -1,10 +1,18 @@
 👋 Participante do bootcamp da Generation Brasil, em transição para Dev Full Stack Jr.![Julia Zoratti](https://user-images.githubusercontent.com/78916393/111000433-d0e99480-8360-11eb-8a7f-e1656ad538bd.png)
 
 
+
+
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julia-zoratti/)
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
+
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=juliazoratti)
+
+
+
 
 
 <center>
