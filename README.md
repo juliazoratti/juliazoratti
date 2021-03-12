@@ -1,7 +1,7 @@
 👋 Participante do bootcamp da Generation Brasil, em transição para Dev Full Stack Jr.![Julia Zoratti](https://user-images.githubusercontent.com/78916393/111000433-d0e99480-8360-11eb-8a7f-e1656ad538bd.png)
 
 
-(https://www.linkedin.com/in/julia-zoratti/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/julia-zoratti/)
 
 <center>
 <table>
